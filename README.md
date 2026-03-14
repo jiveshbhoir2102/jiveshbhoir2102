@@ -2,11 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+I'm+Jivesh+Bhoir;Front+End+Web+Developer;Java+%7C+Spring+Boot+%7C+Java+Developer;Software+Developer)](https://git.io/typing-svg)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=jiveshbhoir2102&color=blue&style=flat-square)
-
 ---
 
 ## 🚀 About Me
+
 🌐 Passionate about building **affordable, professional websites** for students and small businesses  
 💻 Skilled in **Java, Spring Boot, and Web Development**  
 🎨 Creative designer for **logos, pamphlets, Instagram assets, and ad layouts**  
@@ -48,7 +47,7 @@
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://instagram.com/j_i_v_a_21" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a>
-  <a href="mailto:jiveshbhoir21@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" width="40" height="40"/></a>
+  <a href="mailto:jiveshbhoir212@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/jivesh-dinesh-bhoir-693362313/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" width="40" height="40"/></a>
   <a href="https://jivesh-portfolio-21.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portfolio" width="40" height="40"/></a>
 </p>
